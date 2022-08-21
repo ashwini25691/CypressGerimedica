@@ -9,4 +9,4 @@ Commands to run:
 
 Evidences:
 screenshots are stored in ../cypress/screenshots
-Video are stored in ../cypress/videos
+Videos are stored in ../cypress/videos
